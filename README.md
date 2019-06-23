@@ -1,2 +1,2 @@
 # pythonTools
-Alguns códigos feito em python, pra quem ta começando.
+Alguns códigos feitos em python, pra quem ta começando.
